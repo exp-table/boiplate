@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity 0.8.12;
 
-import "../Femboi.sol";
+import "../contracts/Femboi.sol";
 import "ds-test/test.sol";
 
 contract FemboiTest is DSTest {

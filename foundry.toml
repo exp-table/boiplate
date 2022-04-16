@@ -1,5 +1,5 @@
 [default]
-src = 'src'
+src = 'src/contracts'
 test = 'src/test'
 out = 'out'
 libs = ['lib']

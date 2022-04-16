@@ -1,4 +1,8 @@
+
+# foundry cache
 cache/
+
+# hardhat cache
 hh-cache/
 # Node
 node_modules

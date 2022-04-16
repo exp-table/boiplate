@@ -11,6 +11,7 @@ async function deploy() {
   const FEMBOI = await hre.ethers.getContractFactory("Femboi");
   const femboi = await FEMBOI.deploy();
   await femboi.deployed();
+  console.log("🟢 🟢 🟢 🟢 🟢 Femboi contract deployed successfully", femboi.address);
   
 }
 
